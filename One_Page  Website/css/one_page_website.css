@@ -1,0 +1,15 @@
+html {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 62.5%px;
+}
+
+#contact {
+    display: block;
+}
+#contact input {
+    width: 25%;
+    margin: 10px;
+    border: 2px solid rgb(20, 20, 20);
+    border-radius: 8px;
+    display: block;
+}
