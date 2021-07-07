@@ -3,9 +3,6 @@ html {
     font-size: 62.5%px;
 }
 
-#contact {
-    display: block;
-}
 #contact input {
     width: 25%;
     margin: 10px;
